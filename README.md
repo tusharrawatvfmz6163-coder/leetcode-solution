@@ -47,4 +47,16 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0912-sort-an-array) |
+## Hash Table
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0003-longest-substring-without-repeating-characters) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
