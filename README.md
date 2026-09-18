@@ -6,6 +6,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0048-rotate-image) |
 | [0496-next-greater-element-i](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0496-next-greater-element-i) |
+| [0622-design-circular-queue](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0622-design-circular-queue) |
 | [0704-binary-search](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0912-sort-an-array) |
 ## Binary Search
@@ -74,6 +75,7 @@
 | [0203-remove-linked-list-elements](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0234-palindrome-linked-list) |
+| [0622-design-circular-queue](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0622-design-circular-queue) |
 | [0876-middle-of-the-linked-list](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -108,8 +110,13 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0155-min-stack) |
+| [0622-design-circular-queue](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0622-design-circular-queue) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0496-next-greater-element-i) |
+## Queue
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
