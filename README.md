@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0048-rotate-image) |
+| [0496-next-greater-element-i](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0912-sort-an-array) |
 ## Binary Search
@@ -53,6 +54,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0160-intersection-of-two-linked-lists) |
+| [0496-next-greater-element-i](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0496-next-greater-element-i) |
 ## String
 |  |
 | ------- |
@@ -97,6 +99,7 @@
 | [0020-valid-parentheses](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0496-next-greater-element-i) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -105,4 +108,8 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0155-min-stack) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
