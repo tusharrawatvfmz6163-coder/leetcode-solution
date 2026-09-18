@@ -57,6 +57,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0020-valid-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -93,5 +94,10 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0234-palindrome-linked-list) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
