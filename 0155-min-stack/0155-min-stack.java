@@ -1,42 +1,36 @@
  import java.util.Stack;
 
-class Pair {
-    int value;
-    int min;
-
-    Pair(int value, int min) {
-        this.value = value;
-        this.min = min;
-    }
-}
-
 class MinStack {
 
-    Stack<Pair> s;
+    Stack<Integer> stack;
+    Stack<Integer> minStack;
 
     public MinStack() {
-        s = new Stack<>();
+        stack = new Stack<>();
+        minStack = new Stack<>();
     }
 
     public void push(int value) {
+        stack.push(value);
 
-        if (s.isEmpty()) {
-            s.push(new Pair(value, value));
-        } else {
-            int min = Math.min(value, s.peek().min);
-            s.push(new Pair(value, min));
+        if (minStack.isEmpty() || value <= minStack.peek()) {
+            minStack.push(value);
         }
     }
 
     public void pop() {
-        s.pop();
+        if (stack.peek().equals(minStack.peek())) {
+            minStack.pop();
+        }
+
+        stack.pop();
     }
 
     public int top() {
-        return s.peek().value;
+        return stack.peek();
     }
 
     public int getMin() {
-        return s.peek().min;
+        return minStack.peek();
     }
 }
