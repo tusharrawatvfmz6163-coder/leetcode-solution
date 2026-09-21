@@ -100,6 +100,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0496-next-greater-element-i) |
 ## Bracket Sequences
@@ -110,6 +111,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0622-design-circular-queue) |
 ## Monotonic Stack
 |  |
@@ -118,5 +120,6 @@
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
