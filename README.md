@@ -113,6 +113,7 @@
 | [0155-min-stack](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0622-design-circular-queue) |
+| [0933-number-of-recent-calls](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0933-number-of-recent-calls) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -122,4 +123,9 @@
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0622-design-circular-queue) |
+| [0933-number-of-recent-calls](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
