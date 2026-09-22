@@ -140,6 +140,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0543-diameter-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -157,6 +158,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0543-diameter-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0700-search-in-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -166,4 +168,8 @@
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0543-diameter-of-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
