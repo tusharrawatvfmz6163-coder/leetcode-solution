@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0048-rotate-image) |
+| [0215-kth-largest-element-in-an-array](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0496-next-greater-element-i) |
 | [0622-design-circular-queue](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0622-design-circular-queue) |
 | [0704-binary-search](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0704-binary-search) |
@@ -24,14 +25,17 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -185,4 +189,8 @@
 | [0450-delete-node-in-a-bst](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0701-insert-into-a-binary-search-tree) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
