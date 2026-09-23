@@ -6,6 +6,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0048-rotate-image) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0496-next-greater-element-i) |
 | [0622-design-circular-queue](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0622-design-circular-queue) |
@@ -34,6 +35,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0912-sort-an-array](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
@@ -64,6 +66,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0160-intersection-of-two-linked-lists) |
+| [0217-contains-duplicate](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0496-next-greater-element-i) |
 ## String
