@@ -10,6 +10,7 @@
 | [0622-design-circular-queue](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0622-design-circular-queue) |
 | [0704-binary-search](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0912-sort-an-array) |
+| [1046-last-stone-weight](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/1046-last-stone-weight) |
 ## Binary Search
 |  |
 | ------- |
@@ -37,6 +38,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0912-sort-an-array) |
+| [1046-last-stone-weight](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/1046-last-stone-weight) |
 ## Merge Sort
 |  |
 | ------- |
