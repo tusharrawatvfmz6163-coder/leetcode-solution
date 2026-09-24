@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0048-rotate-image) |
+| [0200-number-of-islands](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
@@ -26,6 +27,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0048-rotate-image) |
+| [0200-number-of-islands](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0200-number-of-islands) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -168,6 +170,7 @@
 | [0110-balanced-binary-tree](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0200-number-of-islands) |
 | [0543-diameter-of-binary-tree](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -188,6 +191,7 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0200-number-of-islands) |
 ## DP on Trees
 |  |
 | ------- |
@@ -203,4 +207,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0215-kth-largest-element-in-an-array) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/tusharrawatvfmz6163-coder/leetcode-solution/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
